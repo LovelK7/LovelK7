@@ -3,7 +3,8 @@
 With a background in natural sciences (Master's in Chemistry, PhD in Karstology), I am now delving into the exciting realm of AI and data science, pushing the boundaries of technological innovation.
 
 #### Not long ago, I was doing this: 
-<img src="https://github.com/LovelK7/LovelK7/assets/114396834/cb3edbb4-0072-43f4-aba3-ef0654132029" width="75%"> 
+<img src="https://github.com/LovelK7/LovelK7/assets/114396834/cb3edbb4-0072-43f4-aba3-ef0654132029" width="75%">
+
 #### Now I'm more into this: 
 <img src="https://github.com/LovelK7/LovelK7/assets/114396834/dc453f7b-06a0-4ed2-befe-9d5f148fec12" width="75%">
 
